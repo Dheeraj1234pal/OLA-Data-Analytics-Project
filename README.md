@@ -87,13 +87,20 @@ The main objective is to use data visualization and business intelligence techni
 
 ## 📷 Dashboard Preview
 ## Overall Analysis
-[![Overall Analysis](Overall.png)](Overall.png)
+[📖 Read Overall Analysis](./Overall.png)
+![Overall Analysis](./Overall.png)
+## 🚗 Vehicle Type Analysis
+[📖 Read Vehicle Type Analysis](./Vehical_type.png)
+![Vehicle Type Analysis](./Vehical_type.png)
 ## Revenue Analysis
-[![Revenue Analysis](Revenue_Analysis.png)](Revenue_Analysis.png)
+[📖 Read Revenue Analysis](./Revenue_Analysis.png)
+![Revenue Analysis](./Revenue_Analysis.png)
 ## Cancellation Analysis
-[![Cancellation Analysis](Cancellation_Analysis.png)](Cancellation_Analysis.png)
+[📖 Read Cancellation Analysis](./Cancellation_Analysis.png)
+![Cancellation Analysis](./Cancellation_Analysis.png)
 ## Ratings Analysis
-[![Ratings Analysis](Vehical_Rating_Analysis.png)](Vehical_Rating_Analysis.png)
+[📖 Read Ratings Analysis](./Vehical_Rating_Analysis.png)
+![Ratings Analysis](./Vehical_Rating_Analysis.png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` Power BI file.
