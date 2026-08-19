@@ -90,8 +90,7 @@ The main objective is to use data visualization and business intelligence techni
 [📖 Read Overall Analysis](./Overall.png)
 ![Overall Analysis](./Overall.png)
 ## 🚗 Vehicle Type Analysis
-[📖 Read Vehicle Type Analysis](./Vehical_type.png)
-![Vehicle Type Analysis](./Vehical_type.png)
+![Vehicle Type Analysis](images/Vehicle_type_Analysis.png)
 ## Revenue Analysis
 [📖 Read Revenue Analysis](./Revenue_Analysis.png)
 ![Revenue Analysis](./Revenue_Analysis.png)
