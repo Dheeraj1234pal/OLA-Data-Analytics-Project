@@ -86,14 +86,14 @@ The main objective is to use data visualization and business intelligence techni
 - Payment-method usage
 
 ## 📷 Dashboard Preview
-### Overall Analysis
-![Overall Analysis](Dashboard/01_Overall_Analysis.png)
-### Revenue Analysis
-![Revenue Analysis](Dashboard/02_Revenue_Analysis.png)
-### Cancellation Analysis
-![Cancellation Analysis](Dashboard/03_Cancellation_Analysis.png)
-### Ratings Analysis
-![Ratings Analysis](Dashboard/04_Ratings_Analysis.png)
+## Overall Analysis
+[![Overall Analysis](Overall.png)](Overall.png)
+## Revenue Analysis
+[![Revenue Analysis](Revenue_Analysis.png)](Revenue_Analysis.png)
+## Cancellation Analysis
+[![Cancellation Analysis](Cancellation_Analysis.png)](Cancellation_Analysis.png)
+## Ratings Analysis
+[![Ratings Analysis](Vehical_Rating_Analysis.png)](Vehical_Rating_Analysis.png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` Power BI file.
